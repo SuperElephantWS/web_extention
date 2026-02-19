@@ -4,6 +4,10 @@
   "failed": 0,
   "flaky": 0,
   "total": 6,
+<<<<<<< HEAD
   "startTime": "2026-02-19T19:18:56.300Z",
+=======
+  "startTime": "2026-02-18T00:54:49.834Z",
+>>>>>>> 9daf412a2560d5c484d51d36dba02c490dfa148f
   "isSummary": true
 }
